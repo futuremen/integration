@@ -24,6 +24,8 @@ spring:
   sleuth:
     sampler:
       probability: 1
+  main:
+    allow-bean-definition-overriding: true
   datasource:
     user:
       initialSize: 10
