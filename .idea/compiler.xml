@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="business" />
         <module name="account" />
-        <module name="proto" />
-        <module name="zipkin" />
         <module name="eureka" />
+        <module name="zipkin" />
+        <module name="proto" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
